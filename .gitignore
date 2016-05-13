@@ -10,3 +10,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# InteliJ
+.idea/
+SemanticExamples.iml
+out/
+
+# Jade
+APDescription.txt
+MTPs-Main-Container.txt
